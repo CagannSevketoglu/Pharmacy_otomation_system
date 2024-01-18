@@ -1,3 +1,7 @@
+# How to work
+
+When you run the program, you first enter the name of the medication, then choose the prescribed medication. After that, you enter the ID number on the right side, and click on "Give Prescription." Finally, you press the "Show Prescription" button to display the prescription.
+
  # Prescription Management System for Saglik Bakanligi for pharmacies
 
 this repository contains the source code for the prescription management system API.
